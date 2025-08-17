@@ -27,7 +27,7 @@ client_secret="cmU8Q~zmApcyQ8oN9z3xhwGV-VTPqfm~8IlXRb5Z"
 }
 
 variable "rgname"{
-   default = "terraformrg"
+   default = "terraformrgvcs"
 }
 variable "location"{
   default = "West US 2"
